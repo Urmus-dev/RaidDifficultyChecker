@@ -65,3 +65,19 @@ if GetLocale() == "zhTW" then
     L["Timewalking"]                = "時光漫遊"
     L["Unknown"]                    = "未知"
 end
+
+if GetLocale() == "frFR" then
+    L["You have entered"]           = "Vous êtes entrés dans"
+    L["Current loot spec:"]         = "Spécialisation de butin:"
+    L["10-Man"]                     = "10 joueurs (normal)"
+    L["25-Man"]                     = "25 joueurs (normal)"
+    L["10-Man Heroic"]              = "10 joueurs (héroïque)"
+    L["25-Man Heroic"]              = "25 joueurs (héroïque)"
+    L["40-Man"]                     = "40 joueurs"
+    L["Looking for Raid"]           = "Recherche de groupe"
+    L["Normal"]                     = "Normal"
+    L["Heroic"]                     = "Héroïque"
+    L["Mythic"]                     = "Mythique"
+    L["Timewalking"]                = "Marcheurs du temps"
+    L["Unknown"]                    = "Inconnu"
+end
